@@ -1,5 +1,5 @@
-# Inventory-app-Sql-using-dialog-box
-This is made using a alertdialog box
+# Inventory-app-Sql-without-dialog-box
+This is made using a without using dialog box
 Home page
 
 
